@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.commercial.repository.user.UserRepositoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-06-14T22:40:23" hostname="Tugce-MacBook-Air.local" time="0.031">
+  <properties/>
+  <testcase name="testSaveUser()" classname="com.project.commercial.repository.user.UserRepositoryTest" time="0.005"/>
+  <testcase name="testFindAll()" classname="com.project.commercial.repository.user.UserRepositoryTest" time="0.003"/>
+  <testcase name="testFindUserById()" classname="com.project.commercial.repository.user.UserRepositoryTest" time="0.003"/>
+  <testcase name="testDeleteUser()" classname="com.project.commercial.repository.user.UserRepositoryTest" time="0.003"/>
+  <testcase name="testFindEmail()" classname="com.project.commercial.repository.user.UserRepositoryTest" time="0.01"/>
+  <system-out><![CDATA[Userservice worked!
+Userservice worked!
+Userservice worked!
+Userservice worked!
+Userservice worked!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

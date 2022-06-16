@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.commercial.controller.sequenceGenerator.SequenceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-14T22:40:21" hostname="Tugce-MacBook-Air.local" time="0.21">
+  <properties/>
+  <testcase name="testGenerateSequence()" classname="com.project.commercial.controller.sequenceGenerator.SequenceGeneratorTest" time="0.21"/>
+  <system-out><![CDATA[Userservice worked!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

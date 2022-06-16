@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.commercial.repository.basket.BasketRepositoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-14T22:40:23" hostname="Tugce-MacBook-Air.local" time="0.03">
+  <properties/>
+  <testcase name="testFindAll()" classname="com.project.commercial.repository.basket.BasketRepositoryTest" time="0.005"/>
+  <testcase name="testFindProductById()" classname="com.project.commercial.repository.basket.BasketRepositoryTest" time="0.004"/>
+  <testcase name="testDeleteBasket()" classname="com.project.commercial.repository.basket.BasketRepositoryTest" time="0.004"/>
+  <testcase name="testSaveBasket()" classname="com.project.commercial.repository.basket.BasketRepositoryTest" time="0.011"/>
+  <system-out><![CDATA[Orderservice worked 
+Orderservice worked 
+Orderservice worked 
+Orderservice worked 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

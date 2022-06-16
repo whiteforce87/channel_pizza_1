@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.commercial.repository.order.OrderRepositoryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-14T22:40:23" hostname="Tugce-MacBook-Air.local" time="0.008">
+  <properties/>
+  <testcase name="testFindProductById()" classname="com.project.commercial.repository.order.OrderRepositoryTest" time="0.002"/>
+  <testcase name="testSaveOrder()" classname="com.project.commercial.repository.order.OrderRepositoryTest" time="0.004"/>
+  <system-out><![CDATA[Orderservice worked 
+Orderservice worked 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

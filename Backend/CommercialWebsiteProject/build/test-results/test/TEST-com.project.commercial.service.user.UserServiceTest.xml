@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.commercial.service.user.UserServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-06-14T22:40:23" hostname="Tugce-MacBook-Air.local" time="0.021">
+  <properties/>
+  <testcase name="testUpdateUser()" classname="com.project.commercial.service.user.UserServiceTest" time="0.005"/>
+  <testcase name="testFindAllByEmail()" classname="com.project.commercial.service.user.UserServiceTest" time="0.004"/>
+  <testcase name="testCreateUser()" classname="com.project.commercial.service.user.UserServiceTest" time="0.003"/>
+  <testcase name="testFindUserById()" classname="com.project.commercial.service.user.UserServiceTest" time="0.003"/>
+  <testcase name="testfindAll()" classname="com.project.commercial.service.user.UserServiceTest" time="0.002"/>
+  <system-out><![CDATA[Userservice worked!
+Userservice worked!
+Userservice worked!
+Userservice worked!
+Userservice worked!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
